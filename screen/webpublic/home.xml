@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-1.4.xsd"
+        require-authentication="false">
+    <!-- NOTE: require-authentication=false is required to allow sub-screens to decide. -->
+
+    <widgets>
+        <label type="h1" text="Homepage"/>
+    </widgets>
+</screen>
